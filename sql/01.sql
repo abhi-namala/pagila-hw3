@@ -1,6 +1,6 @@
 /*
  * Compute the number of customers who live outside of the US.
- *
+ * editing so that actions can run
  * NOTE:
  * It is possible to solve this problem with the "cheesy" query
  * ```
